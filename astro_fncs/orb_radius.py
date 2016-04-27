@@ -11,6 +11,6 @@ def orb_radius(period, mass_sum):
 	radius = ((mass_sum)*period**2)**(1./3)
 	return radius
 
-R = orb_radius(69.0, 3.0)
-print R
-print 2**38
+# R = orb_radius(69.0, 3.0)
+# print R
+# print 2**38

@@ -10,5 +10,5 @@ def abs_magnitude(m,d):
 	AbsMag = m - 5 * np.log10(d) + 5
 	return AbsMag
 
-M = abs_magnitude(-1.44, 2.637)
-print M
+# M = abs_magnitude(-1.44, 2.637)
+# print M

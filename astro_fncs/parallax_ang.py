@@ -7,5 +7,5 @@ def par_angle(d):
 	parallax = 1.0/d
 	return parallax
 
-PA = par_angle(1000.)
-print str(PA * 1000) + " milliarcseconds"
+# PA = par_angle(1000.)
+# print str(PA * 1000) + " milliarcseconds"
